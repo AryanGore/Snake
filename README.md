@@ -2,6 +2,10 @@
 
 A small console-based Snake game written in C++. The player steers a growing snake around a rectangular board, eats food to earn points, and tries to avoid running into the snake's own body.
 
+## Objective
+
+This project was developed to learn C++ design and the process of building a simple application. It brings together several C++ language and standard-library features to implement a complete, playable game, providing practice with organizing code, modeling objects, handling input, and managing the game loop.
+
 ## Contents
 
 - [Requirements](#requirements)
